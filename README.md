@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I believe that **"fast" is a feature**. With 5+ years of experience across the high-stakes sectors of Banking and Healthcare, I currently ensure **Athenahealth** systems remain resilient and scalable. I don't just execute tests; I architect performance ecosystems.
+I believe that **"fast" is a feature**. With 6+ years of experience across the high-stakes sectors of Banking and Healthcare, I currently ensure **Athenahealth** systems remain resilient and scalable. I don't just execute tests; I architect performance ecosystems.
 
 Whether I'm scripting intricate scenarios in JMeter, deep-diving into New Relic telemetry to isolate bottlenecks, or deploying Python-driven automation to eliminate manual overhead, my objective is singular: **Peak Reliability**. I thrive at the intersection of performance engineering, proactive monitoring, and intelligent automation.
 
@@ -33,7 +33,7 @@ Executed end-to-end performance testing, developed JMeter scripts, and collabora
 ## 🛠️ Technical Arsenal
 
 ### 🔬 Performance Testing
-**Apache JMeter**, **HP LoadRunner**
+**Apache JMeter**, **LoadRunner**
 *Designing and executing high-concurrency load, stress, and endurance tests.*
 
 ### ⚡ Automation & Scripting

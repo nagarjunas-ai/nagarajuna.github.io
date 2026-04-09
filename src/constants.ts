@@ -20,7 +20,7 @@ export const SKILL_CATEGORIES = [
     title: 'Performance Testing',
     icon: Activity,
     description: 'Designing and executing high-concurrency load, stress, and endurance tests.',
-    skills: ['Apache JMeter', 'HP LoadRunner']
+    skills: ['Apache JMeter', 'LoadRunner']
   },
   {
     title: 'Automation & Scripting',
@@ -83,7 +83,7 @@ export const PROJECTS = [
 ];
 
 export const STATS = [
-  { label: 'Experience in Performance Engineering', value: '5+ YRS', icon: Terminal },
+  { label: 'Experience in Performance Engineering', value: '6+ YRS', icon: Terminal },
   { label: 'Concurrent Users Tested / Peak Load Handled', value: '4K+', icon: Activity },
   { label: 'AUTOMATION_COVERAGE', value: '90%', icon: Cpu },
   { label: 'Bottlenecks Identified Pre-Production', value: '95%+ Issues', icon: Zap },

@@ -155,7 +155,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.5 }}
             className="text-nexus-text/60 text-lg md:text-lg max-w-3xl font-light leading-relaxed mb-10"
           >
-            With 5+ years of experience across banking and healthcare, I specialize in identifying bottlenecks, optimizing system behavior, and ensuring reliability at scale.
+            With 6+ years of experience across banking and healthcare, I specialize in identifying bottlenecks, optimizing system behavior, and ensuring reliability at scale.
             <br /><br />
             I design performance strategies, analyze system metrics, and build automation to eliminate manual effort, accelerate analysis, and detect performance issues faster.
           </motion.p>
@@ -396,7 +396,7 @@ const TerminalSection = () => {
         response = 'Available commands: about, skills, experience, contact, clear, status';
         break;
       case 'about':
-        response = 'Nagarjuna S - Performance Engineer with 5+ years of experience across Banking and Healthcare domains. Currently at Athenahealth.';
+        response = 'Nagarjuna S - Performance Engineer with 6+ years of experience across Banking and Healthcare domains. Currently at Athenahealth.';
         break;
       case 'skills':
         response = 'JMeter, LoadRunner, Zabbix, New Relic, Python, Bash, Pywinauto, AWS Kubernetes, Docker, Linux, Oracle SQL.';
